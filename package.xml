@@ -411,6 +411,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>FM_2__c.Date__c</members>
         <members>Freddiemac__c.Email__c</members>
         <members>Freddiemac__c.Text__c</members>
         <members>Idea.Categories</members>
@@ -648,6 +649,7 @@
         <members>EmailMessage</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
+        <members>FM_2__c</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Freddiemac__c</members>
@@ -746,6 +748,7 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
+        <members>FM_2__c-FM 2 Layout</members>
         <members>Freddiemac__c-Freddiemac Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
