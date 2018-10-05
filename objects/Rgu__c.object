@@ -55,7 +55,7 @@
         <fullName>Color__c</fullName>
         <externalId>false</externalId>
         <label>Color</label>
-        <length>250</length>
+        <length>100</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
