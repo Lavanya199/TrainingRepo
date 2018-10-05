@@ -53,6 +53,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Color__c</fullName>
+        <description>sacdsvfvfdb</description>
         <externalId>false</externalId>
         <label>Color</label>
         <length>100</length>
