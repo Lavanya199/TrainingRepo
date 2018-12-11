@@ -1,8 +1,8 @@
 public Class AccountCreation
 {
-public Account createAccount(String name) //Method to Create Account 
+public Account createAccount(String name) //Method to Create Account abc
 {
-//Comment - Freddiemac  training
+//Comment1- test conflict
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');
