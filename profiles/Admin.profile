@@ -911,6 +911,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Jan__c.Jolly__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Jan__c.Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
