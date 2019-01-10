@@ -26,6 +26,10 @@
                 <behavior>Edit</behavior>
                 <field>Jolly__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Cranky_email__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
