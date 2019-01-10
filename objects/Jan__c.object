@@ -95,6 +95,14 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>Sad__c</fullName>
+        <externalId>false</externalId>
+        <label>Sad</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
     <label>Jan</label>
     <nameField>
         <label>Jan Name</label>
