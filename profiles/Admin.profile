@@ -920,7 +920,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Jan__c.Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
