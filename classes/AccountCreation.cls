@@ -2,7 +2,7 @@ public Class AccountCreation
 {
 public Account createAccount(String name) //Method to Create Account abc
 {
-//Comment - merge test commit6
+//Comment Int branch
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');
