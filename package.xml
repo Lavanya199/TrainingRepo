@@ -539,6 +539,7 @@
         <members>P_Nonveg__c.NV_type__c</members>
         <members>P_Nonveg__c.Non_veg_name__c</members>
         <members>P_Veg__c.Veg_picklist__c</members>
+        <members>Paradise_Restaurant__c.City__c</members>
         <members>Paradise_Restaurant__c.Customer_Name__c</members>
         <members>Paradise_Restaurant__c.Email__c</members>
         <members>Paradise_Restaurant__c.P_Nonveg__c</members>
