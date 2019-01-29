@@ -1326,6 +1326,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Paradise_Restaurant__c.City__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Paradise_Restaurant__c.Customer_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
