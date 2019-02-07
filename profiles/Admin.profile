@@ -1470,8 +1470,13 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Voya__c.Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Voya__c.Email__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
