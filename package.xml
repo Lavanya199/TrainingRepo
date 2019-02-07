@@ -636,6 +636,8 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>Voya__c.Date__c</members>
+        <members>Voya__c.Email__c</members>
         <members>Voya__c.Release_name__c</members>
         <name>CustomField</name>
     </types>
