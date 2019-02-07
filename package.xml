@@ -917,6 +917,14 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>PT1_profilePasswordPolicy1549514077909</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>PT1_profileSessionSetting1549514077979</members>
+        <name>ProfileSessionSetting</name>
+    </types>
+    <types>
         <members>Case.LogACall</members>
         <members>Case.NewChildCase</members>
         <members>CollaborationGroup.NewGroupMember</members>
