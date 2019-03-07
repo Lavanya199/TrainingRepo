@@ -402,6 +402,12 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Account_name_rule</fullName>
+        <active>true</active>
+        <errorConditionFormula>Name  = null</errorConditionFormula>
+        <errorMessage>Test</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>

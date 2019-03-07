@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>43.0</version>
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>HelloWorldTrigger</members>
+        <members>Trigger2</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>AppSwitcher</members>
@@ -1087,10 +1091,22 @@
         <name>TopicsForObjects</name>
     </types>
     <types>
+        <members>Account.Account_name_rule</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>Account.UpdateRule</members>
+        <name>WorkflowRule</name>
+    </types>
+    <types>
+        <members>Account.VP_task</members>
+        <name>WorkflowTask</name>
     </types>
 </Package>
