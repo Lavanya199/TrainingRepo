@@ -373,6 +373,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>Dummy_object__c.Dummy_field_1__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -665,6 +666,7 @@
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
+        <members>Dummy_object__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -779,6 +781,7 @@
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>Dummy_object__c-Dummy object Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
