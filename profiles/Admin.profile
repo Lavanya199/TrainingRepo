@@ -966,6 +966,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Kavitha_test__c.Picklist1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Kavitha_test__c.Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>

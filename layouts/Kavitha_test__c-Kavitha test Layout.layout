@@ -12,7 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Picklist__c</field>
+                <field>Picklist1__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
