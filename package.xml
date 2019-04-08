@@ -3,6 +3,10 @@
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
+        <members>ClassOne</members>
+        <members>ClassOneTest</members>
+        <members>ClassTwo</members>
+        <members>ClassTwoTest</members>
         <name>ApexClass</name>
     </types>
     <types>
