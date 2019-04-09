@@ -62,6 +62,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AR_Test__c.test1__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -433,6 +434,7 @@
         <members>Jan__c.Sad__c</members>
         <members>Kavitha_test__c.Checkbox__c</members>
         <members>Kavitha_test__c.Color__c</members>
+        <members>Kavitha_test__c.Nvidia_Demo__c</members>
         <members>Kavitha_test__c.Text1__c</members>
         <members>Kavitha_test__c.Text2__c</members>
         <members>Lead.Address</members>

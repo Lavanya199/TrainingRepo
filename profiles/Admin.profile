@@ -989,6 +989,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Kavitha_test__c.Nvidia_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Kavitha_test__c.Text1__c</field>
         <readable>true</readable>
     </fieldPermissions>
