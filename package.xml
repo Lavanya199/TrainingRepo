@@ -5,8 +5,6 @@
         <members>AccountCreationTest</members>
         <members>ClassOne</members>
         <members>ClassOneTest</members>
-        <members>ClassTwo</members>
-        <members>ClassTwoTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -431,7 +429,6 @@
         <members>Jan__c.Jolly__c</members>
         <members>Jan__c.Picklist__c</members>
         <members>Jan__c.Sad__c</members>
-        <members>Kavitha_test__c.Picklist1__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
