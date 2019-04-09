@@ -31,4 +31,9 @@
         <default>false</default>
         <label>AutoRABIT1</label>
     </standardValue>
+    <standardValue>
+        <fullName>Nvidia1</fullName>
+        <default>false</default>
+        <label>Nvidia1</label>
+    </standardValue>
 </StandardValueSet>
