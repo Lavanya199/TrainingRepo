@@ -979,12 +979,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Kavitha_test__c.Checkbox__c</field>
+        <field>Kavitha_test__c.Color__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Kavitha_test__c.Color__c</field>
+        <field>Kavitha_test__c.Nvidia_Demo__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
