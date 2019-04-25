@@ -478,6 +478,7 @@
         <members>NV_type__c.Name__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
+        <members>Opportunity.AutorabitExtId__c</members>
         <members>Opportunity.CampaignId</members>
         <members>Opportunity.CloseDate</members>
         <members>Opportunity.ContractId</members>
