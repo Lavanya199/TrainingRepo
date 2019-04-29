@@ -49,8 +49,8 @@
         <dataType>Boolean</dataType>
         <expression>true</expression>
     </formulas>
-    <interviewLabel>Oppty_update-1_InterviewLabel</interviewLabel>
-    <label>Oppty update</label>
+    <interviewLabel>Oppty_update-3_InterviewLabel</interviewLabel>
+    <label>Oppty update v3</label>
     <processMetadataValues>
         <name>ObjectType</name>
         <value>
