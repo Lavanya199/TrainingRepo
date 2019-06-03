@@ -1134,6 +1134,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>May16__c.Nvidia_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>May16__c.Text1__c</field>
         <readable>true</readable>
     </fieldPermissions>
