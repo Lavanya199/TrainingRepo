@@ -3,7 +3,7 @@ public class AccountCreationTest
 {
   static testMethod void testInsertAccount() //check the difference
   {
-  //Comment - 4.5 Demo for Voya
+  //Comment - Nvidia demo
   AccountCreation ca = new AccountCreation();
   ca.createAccount('TestAcc1');
   
