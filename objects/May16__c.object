@@ -82,6 +82,21 @@
                     <default>false</default>
                     <label>d</label>
                 </value>
+                <value>
+                    <fullName>e</fullName>
+                    <default>false</default>
+                    <label>e</label>
+                </value>
+                <value>
+                    <fullName>f</fullName>
+                    <default>false</default>
+                    <label>f</label>
+                </value>
+                <value>
+                    <fullName>g</fullName>
+                    <default>false</default>
+                    <label>g</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
