@@ -1128,7 +1128,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>May16__c.Boeing_picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
