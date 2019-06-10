@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>Nvidia_text__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Boeing_picklist__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
