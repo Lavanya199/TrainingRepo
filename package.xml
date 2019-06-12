@@ -474,6 +474,7 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>May16__c.Boeing_picklist__c</members>
         <members>May16__c.Color__c</members>
         <members>May16__c.Nvidia_text__c</members>
         <members>May16__c.Text1__c</members>
