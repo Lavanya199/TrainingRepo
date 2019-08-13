@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>45.0</version>
     <types>
         <members>AccountCreation</members>
@@ -192,6 +193,7 @@
         <members>CampaignMember.Status</members>
         <members>CampaignMember.Street</members>
         <members>CampaignMember.Title</members>
+        <members>CapOne__c.Cust_Picklist__c</members>
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
         <members>Case.BusinessHoursId</members>
@@ -672,6 +674,7 @@
         <members>AssistantProgress</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
+        <members>CapOne__c</members>
         <members>Case</members>
         <members>CaseContactRole</members>
         <members>CollaborationGroup</members>
@@ -792,6 +795,7 @@
         <members>AssetRelationship-Asset Relationship Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
+        <members>CapOne__c-CapOne Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
         <members>Case-Case %28Sales%29 Layout</members>
         <members>Case-Case %28Support%29 Layout</members>
