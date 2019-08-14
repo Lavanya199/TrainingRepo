@@ -83,6 +83,7 @@
     </fields>
     <fields>
         <fullName>Picklist_color__c</fullName>
+        <description>testing</description>
         <externalId>false</externalId>
         <label>Picklist color</label>
         <required>false</required>
@@ -109,16 +110,6 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
-    </fields>
-    <fields>
-        <fullName>Text_field__c</fullName>
-        <externalId>false</externalId>
-        <label>Text field</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <label>UAT 19</label>
     <nameField>
