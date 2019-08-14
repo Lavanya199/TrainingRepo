@@ -651,7 +651,6 @@
         <members>Task.WhoId</members>
         <members>UAT_19__c.Birds_Multipick__c</members>
         <members>UAT_19__c.Picklist_color__c</members>
-        <members>UAT_19__c.Text_field__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
         <members>UserProvisioningRequest.ApprovalStatus</members>
