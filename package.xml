@@ -3,11 +3,13 @@
     <version>44.0</version>
     <types>
         <members>AccountCreation</members>
+        <members>AccountCreation1</members>
+        <members>AccountCreation1Test</members>
+        <members>AccountCreation2</members>
+        <members>AccountCreation2Test</members>
+        <members>AccountCreation3</members>
+        <members>AccountCreation3Test</members>
         <members>AccountCreationTest</members>
-        <members>ClassOne</members>
-        <members>ClassOneTest</members>
-        <members>ClassTwo</members>
-        <members>ClassTwoTest</members>
         <name>ApexClass</name>
     </types>
     <types>
