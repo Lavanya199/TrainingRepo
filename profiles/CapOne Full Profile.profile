@@ -88,22 +88,6 @@
         <apexClass>AccountCreationTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>ClassOne</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>ClassOneTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>ClassTwo</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>ClassTwoTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
