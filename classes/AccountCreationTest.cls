@@ -1,7 +1,7 @@
 @isTest
 public class AccountCreationTest
 {
-  static testMethod void testInsertAccount() //check the difference
+  static testMethod void testInsertAccount() //check theInfy demo
   {
   //Comment - ASCAP demo
   AccountCreation ca = new AccountCreation();

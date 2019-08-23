@@ -896,6 +896,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Infy_Obj__c.Infy_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Jan__c.Cranky_email__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1444,6 +1449,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Infy_Obj__c-Infy Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Jan__c-Jan Layout</layout>
