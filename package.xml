@@ -605,6 +605,7 @@
         <members>RecordAction.RecordId</members>
         <members>RecordAction.Status</members>
         <members>Rgu__c.Color__c</members>
+        <members>Rodanandfields__c.Rtext__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
         <members>Scorecard.OwnerId</members>
@@ -732,6 +733,7 @@
         <members>RecordAction</members>
         <members>RequestsForAccessSIQ</members>
         <members>Rgu__c</members>
+        <members>Rodanandfields__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
@@ -852,6 +854,7 @@
         <members>Product2-Product Layout</members>
         <members>QuickText-Quick Text Layout</members>
         <members>Rgu__c-Rgu Layout</members>
+        <members>Rodanandfields__c-Rodanandfields Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
