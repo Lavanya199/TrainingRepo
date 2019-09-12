@@ -83,6 +83,7 @@
     </fields>
     <fields>
         <fullName>Rtext__c</fullName>
+        <description>Add description - 9/12</description>
         <externalId>false</externalId>
         <label>Rtext</label>
         <length>250</length>
