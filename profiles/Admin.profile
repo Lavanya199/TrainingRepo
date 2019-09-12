@@ -1501,6 +1501,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Rodanandfields__c.Picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Rodanandfields__c.Rtext__c</field>
         <readable>true</readable>
     </fieldPermissions>
