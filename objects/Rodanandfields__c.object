@@ -78,6 +78,16 @@
                     <default>false</default>
                     <label>Value3</label>
                 </value>
+                <value>
+                    <fullName>Value 4</fullName>
+                    <default>false</default>
+                    <label>Value 4</label>
+                </value>
+                <value>
+                    <fullName>Value 5</fullName>
+                    <default>false</default>
+                    <label>Value 5</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
