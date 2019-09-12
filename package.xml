@@ -604,6 +604,7 @@
         <members>RecordAction.RecordId</members>
         <members>RecordAction.Status</members>
         <members>Rgu__c.Color__c</members>
+        <members>Rodanandfields__c.Picklist__c</members>
         <members>Rodanandfields__c.Rtext__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
