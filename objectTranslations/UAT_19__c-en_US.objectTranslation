@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>UAT 19</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>UAT 19s</value>
+    </caseValues>
+    <fields>
+        <label><!-- Birds Multipick --></label>
+        <name>Birds_Multipick__c</name>
+        <picklistValues>
+            <masterLabel>Parrot</masterLabel>
+            <translation><!-- Parrot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Peacock</masterLabel>
+            <translation><!-- Peacock --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>sparrow</masterLabel>
+            <translation><!-- sparrow --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Picklist color --></label>
+        <name>Picklist_color__c</name>
+        <picklistValues>
+            <masterLabel>Blue</masterLabel>
+            <translation><!-- Blue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Green</masterLabel>
+            <translation><!-- Green --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Red</masterLabel>
+            <translation><!-- Red --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

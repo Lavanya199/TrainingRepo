@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Paradise Restaurant</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Paradise Restaurants</value>
+    </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- City --></label>
+        <name>City__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer Name --></label>
+        <name>Customer_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- P Nonveg --></label>
+        <name>P_Nonveg__c</name>
+        <relationshipLabel><!-- Paradise Restaurants --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- P Veg --></label>
+        <name>P_Veg__c</name>
+        <relationshipLabel><!-- Paradise Restaurants --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
