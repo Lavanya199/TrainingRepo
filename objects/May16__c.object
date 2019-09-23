@@ -102,6 +102,7 @@
     </fields>
     <fields>
         <fullName>Color__c</fullName>
+        <description>Jira demo</description>
         <externalId>false</externalId>
         <label>Color</label>
         <length>250</length>
