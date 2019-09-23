@@ -1151,6 +1151,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>May16__c.Sep22__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>May16__c.Text1__c</field>
         <readable>true</readable>
     </fieldPermissions>
