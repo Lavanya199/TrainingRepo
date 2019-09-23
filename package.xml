@@ -437,6 +437,7 @@
         <members>Jan__c.Jolly__c</members>
         <members>Jan__c.Picklist__c</members>
         <members>Jan__c.Sad__c</members>
+        <members>Jira_demo__c.Text__c</members>
         <members>Kavitha_test__c.Color__c</members>
         <members>Kavitha_test__c.Nvidia_Demo__c</members>
         <members>Kavitha_test__c.Text1__c</members>
@@ -706,6 +707,7 @@
         <members>Freddiemac__c</members>
         <members>Idea</members>
         <members>Jan__c</members>
+        <members>Jira_demo__c</members>
         <members>Kavitha_test__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
@@ -829,6 +831,7 @@
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Jan__c-Jan Layout</members>
+        <members>Jira_demo__c-Jira demo Layout</members>
         <members>Kavitha_test__c-Kavitha test Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
