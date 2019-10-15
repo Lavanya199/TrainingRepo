@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>45.0</version>
+    <version>47.0</version>
     <types>
         <members>AccountCreation</members>
         <members>AccountCreation1</members>
@@ -655,6 +655,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>UAT_19_3__c.Merge_test__c</members>
         <members>UAT_19__c.Birds_Multipick__c</members>
         <members>UAT_19__c.Picklist_color__c</members>
         <members>User.ManagerId</members>
@@ -749,6 +750,7 @@
         <members>Task</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
+        <members>UAT_19_3__c</members>
         <members>UAT_19__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
@@ -865,6 +867,7 @@
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>UAT_19_3__c-UAT 19 Layout</members>
         <members>UAT_19__c-UAT 19 Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
