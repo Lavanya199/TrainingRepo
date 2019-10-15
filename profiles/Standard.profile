@@ -1396,6 +1396,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>UAT_19_3__c.Merge_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>UAT_19__c.Birds_Multipick__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1508,6 +1513,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>UAT_19_3__c-UAT 19 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>UAT_19__c-UAT 19 Layout</layout>
