@@ -1431,7 +1431,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>UAT_19_3__c.Merge_test__c</field>
+        <field>UAT_19_3__c.Label_test__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
