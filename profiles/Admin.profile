@@ -956,6 +956,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Infy_Obj__c.Infy_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Jan__c.Cranky_email__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1561,7 +1566,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>UAT_19_3__c.Merge_test__c</field>
+        <field>UAT_19_3__c.Jira_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>UAT_19_3__c.Label_test__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1663,6 +1673,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Infy_Obj__c-Infy Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Jan__c-Jan Layout</layout>
@@ -1905,6 +1918,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Idea</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Infy_Obj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

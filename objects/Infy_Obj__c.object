@@ -53,31 +53,21 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Jira_test__c</fullName>
+        <fullName>Infy_text__c</fullName>
         <externalId>false</externalId>
-        <label>Jira test</label>
+        <label>Infy text</label>
         <length>250</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>Label_test__c</fullName>
-        <externalId>false</externalId>
-        <label>Label test</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>UAT 19</label>
+    <label>Infy Obj</label>
     <nameField>
-        <label>UAT 19.3 Name</label>
+        <label>Infy Obj Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>UAT 19s</pluralLabel>
+    <pluralLabel>Infy Objs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

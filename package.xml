@@ -7,8 +7,6 @@
         <members>AccountCreation1Test</members>
         <members>AccountCreation2</members>
         <members>AccountCreation2Test</members>
-        <members>AccountCreation3</members>
-        <members>AccountCreation3Test</members>
         <members>AccountCreationTest</members>
         <name>ApexClass</name>
     </types>
@@ -432,6 +430,7 @@
         <members>Freddiemac__c.Text__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>Infy_Obj__c.Infy_text__c</members>
         <members>Jan__c.Cranky_email__c</members>
         <members>Jan__c.Happy__c</members>
         <members>Jan__c.Jolly__c</members>
@@ -654,7 +653,8 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
-        <members>UAT_19_3__c.Merge_test__c</members>
+        <members>UAT_19_3__c.Jira_test__c</members>
+        <members>UAT_19_3__c.Label_test__c</members>
         <members>UAT_19__c.Birds_Multipick__c</members>
         <members>UAT_19__c.Picklist_color__c</members>
         <members>User.ManagerId</members>
@@ -707,6 +707,7 @@
         <members>ForecastingCategoryMapping</members>
         <members>Freddiemac__c</members>
         <members>Idea</members>
+        <members>Infy_Obj__c</members>
         <members>Jan__c</members>
         <members>Jira_demo__c</members>
         <members>Kavitha_test__c</members>
@@ -832,6 +833,7 @@
         <members>Freddiemac__c-Freddiemac Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>Infy_Obj__c-Infy Obj Layout</members>
         <members>Jan__c-Jan Layout</members>
         <members>Jira_demo__c-Jira demo Layout</members>
         <members>Kavitha_test__c-Kavitha test Layout</members>
@@ -976,6 +978,14 @@
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>PT1_profilePasswordPolicy1549514077909</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>PT1_profileSessionSetting1549514077979</members>
+        <name>ProfileSessionSetting</name>
     </types>
     <types>
         <members>Case.LogACall</members>

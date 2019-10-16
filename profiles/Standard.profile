@@ -896,6 +896,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Infy_Obj__c.Infy_text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Jan__c.Cranky_email__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1048,6 +1053,31 @@
         <editable>true</editable>
         <field>Lead.Website</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Boeing_picklist__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Color__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Nvidia_text__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Sep22__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Text1__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1396,7 +1426,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>UAT_19_3__c.Merge_test__c</field>
+        <field>UAT_19_3__c.Jira_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>UAT_19_3__c.Label_test__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1459,6 +1494,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Infy_Obj__c-Infy Obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Jan__c-Jan Layout</layout>
