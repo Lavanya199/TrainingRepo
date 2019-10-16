@@ -47,12 +47,14 @@
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
+    <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Boeing_picklist__c</fullName>
+        <description>Testing differences</description>
         <externalId>false</externalId>
         <label>Boeing picklist</label>
         <required>false</required>
@@ -92,11 +94,6 @@
                     <default>false</default>
                     <label>f</label>
                 </value>
-                <value>
-                    <fullName>g</fullName>
-                    <default>false</default>
-                    <label>g</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -113,6 +110,7 @@
     </fields>
     <fields>
         <fullName>Nvidia_text__c</fullName>
+        <description>fegferhtrhgtjj</description>
         <externalId>false</externalId>
         <label>Nvidia text</label>
         <length>250</length>
@@ -133,6 +131,7 @@
     </fields>
     <fields>
         <fullName>Text1__c</fullName>
+        <description>wegrehgtrehtrjhrjj</description>
         <externalId>false</externalId>
         <label>Text1</label>
         <length>250</length>

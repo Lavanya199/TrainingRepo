@@ -1056,6 +1056,31 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>May16__c.Boeing_picklist__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Color__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Nvidia_text__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Sep22__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May16__c.Text1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>NVIDIA__c.Nvidia_Text__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1397,6 +1422,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Task.WhoId</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>UAT_19_3__c.Jira_test__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

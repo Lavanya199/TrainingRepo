@@ -7,8 +7,6 @@
         <members>AccountCreation1Test</members>
         <members>AccountCreation2</members>
         <members>AccountCreation2Test</members>
-        <members>AccountCreation3</members>
-        <members>AccountCreation3Test</members>
         <members>AccountCreationTest</members>
         <name>ApexClass</name>
     </types>
@@ -655,6 +653,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>UAT_19_3__c.Jira_test__c</members>
         <members>UAT_19_3__c.Merge_test__c</members>
         <members>UAT_19__c.Birds_Multipick__c</members>
         <members>UAT_19__c.Picklist_color__c</members>
