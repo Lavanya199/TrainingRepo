@@ -653,6 +653,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>UAT_19_3__c.Date__c</members>
         <members>UAT_19_3__c.Jira_test__c</members>
         <members>UAT_19_3__c.Label_test__c</members>
         <members>UAT_19__c.Birds_Multipick__c</members>
