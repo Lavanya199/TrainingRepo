@@ -671,6 +671,8 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>Verizon__c.Phone__c</members>
+        <members>Verizon__c.Text_field1__c</members>
         <members>Voya__c.Date__c</members>
         <members>Voya__c.Email__c</members>
         <members>Voya__c.Release_name__c</members>
@@ -755,6 +757,7 @@
         <members>UAT_19__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>Verizon__c</members>
         <members>Voya__c</members>
         <name>CustomObject</name>
     </types>
@@ -874,6 +877,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>Verizon__c-Verizon Layout</members>
         <members>Voya__c-Voya Layout</members>
         <name>Layout</name>
     </types>
