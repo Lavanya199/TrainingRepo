@@ -280,6 +280,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AscapOne__c.Email__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AscapOne__c.Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
