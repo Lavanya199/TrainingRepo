@@ -106,6 +106,7 @@
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
         <members>AscapOne__c.Email__c</members>
+        <members>AscapOne__c.Perfor_test__c</members>
         <members>AscapOne__c.Picklist__c</members>
         <members>AscapOne__c.Text__c</members>
         <members>Asset.AccountId</members>

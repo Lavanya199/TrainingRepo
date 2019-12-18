@@ -285,6 +285,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AscapOne__c.Perfor_test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AscapOne__c.Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
