@@ -681,6 +681,8 @@
         <members>Voya__c.Date__c</members>
         <members>Voya__c.Email__c</members>
         <members>Voya__c.Release_name__c</members>
+        <members>Workday_AR_POC__c.Email__c</members>
+        <members>Workday_AR_POC__c.Text1__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -766,6 +768,7 @@
         <members>UserProvisioningRequest</members>
         <members>Verizon__c</members>
         <members>Voya__c</members>
+        <members>Workday_AR_POC__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -888,6 +891,7 @@
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
         <members>Verizon__c-Verizon Layout</members>
         <members>Voya__c-Voya Layout</members>
+        <members>Workday_AR_POC__c-Workday AR POC Layout</members>
         <name>Layout</name>
     </types>
     <types>
