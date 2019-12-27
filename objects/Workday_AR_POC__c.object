@@ -154,7 +154,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Email__c</fullName>
-        <description>added description</description>
+        <description>added description v1</description>
         <externalId>false</externalId>
         <label>Email</label>
         <required>false</required>
@@ -164,7 +164,7 @@
     </fields>
     <fields>
         <fullName>Text1__c</fullName>
-        <description>added description</description>
+        <description>added description v1</description>
         <externalId>false</externalId>
         <label>Text1</label>
         <length>250</length>
