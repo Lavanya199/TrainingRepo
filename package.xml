@@ -8,6 +8,7 @@
         <members>AccountCreation2</members>
         <members>AccountCreation2Test</members>
         <members>AccountCreationTest</members>
+        <members>AutoRabitTest</members>
         <name>ApexClass</name>
     </types>
     <types>
