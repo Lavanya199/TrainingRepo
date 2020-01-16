@@ -89,14 +89,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>AccountCreation5</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>AccountCreation5Test</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>AccountCreationTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -1658,17 +1650,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Workday_AR_POC__c.Delete_test1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Workday_AR_POC__c.Delete_test_3__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Workday_AR_POC__c.Delete_test_picklist_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

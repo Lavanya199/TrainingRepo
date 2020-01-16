@@ -153,52 +153,14 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Delete_test1__c</fullName>
-        <externalId>false</externalId>
-        <label>Delete test1</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Delete_test_3__c</fullName>
+        <description>Updated on Jan 16</description>
         <externalId>false</externalId>
         <label>Delete test 3</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
         <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Delete_test_picklist_2__c</fullName>
-        <externalId>false</externalId>
-        <label>Delete test picklist 2</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>Red</fullName>
-                    <default>false</default>
-                    <label>Red</label>
-                </value>
-                <value>
-                    <fullName>Blue</fullName>
-                    <default>false</default>
-                    <label>Blue</label>
-                </value>
-                <value>
-                    <fullName>Green</fullName>
-                    <default>false</default>
-                    <label>Green</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
     </fields>
     <fields>
         <fullName>Email__c</fullName>
