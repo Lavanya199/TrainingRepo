@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>47.0</version>
+    <version>45.0</version>
     <types>
         <members>AccountCreation</members>
         <members>AccountCreation1</members>
         <members>AccountCreation1Test</members>
         <members>AccountCreation2</members>
         <members>AccountCreation2Test</members>
+        <members>AccountCreation5</members>
+        <members>AccountCreation5Test</members>
         <members>AccountCreationTest</members>
         <members>AutoRabitTest</members>
         <name>ApexClass</name>
@@ -682,6 +684,9 @@
         <members>Voya__c.Date__c</members>
         <members>Voya__c.Email__c</members>
         <members>Voya__c.Release_name__c</members>
+        <members>Workday_AR_POC__c.Delete_test1__c</members>
+        <members>Workday_AR_POC__c.Delete_test_3__c</members>
+        <members>Workday_AR_POC__c.Delete_test_picklist_2__c</members>
         <members>Workday_AR_POC__c.Email__c</members>
         <members>Workday_AR_POC__c.Text1__c</members>
         <name>CustomField</name>
