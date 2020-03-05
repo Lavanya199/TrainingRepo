@@ -152,16 +152,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>Text_march__c</fullName>
-        <externalId>false</externalId>
-        <label>Text march</label>
-        <length>250</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <label>ASCAP</label>
     <nameField>
         <label>ASCAP Name</label>
