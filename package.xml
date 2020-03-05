@@ -65,7 +65,6 @@
     </types>
     <types>
         <members>AR_Test__c.test1__c</members>
-        <members>ASCAP__c.March5__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
