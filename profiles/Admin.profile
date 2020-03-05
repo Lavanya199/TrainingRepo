@@ -100,7 +100,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>ASCAP__c.Text1__c</field>
+        <field>ASCAP__c.March5__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
